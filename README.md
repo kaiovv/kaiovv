@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaiovv
-- 👀 I’m interested in  programação
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Front-end/C#
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me  kaio.freitasviana@gmail.com
